@@ -4,17 +4,12 @@
 #include <math.h>
 
 #include "func.h"
+#include "struct.h"
 
 #define first 100
 #define max 1000
 
 int nextPosition = 0, nextPID = 0;
-
-typedef struct
-{
-	int pid, cpu, io, status;
-	char name[5], type[2];
-} Process;
 
 Process processes[max];
 

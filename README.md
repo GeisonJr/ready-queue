@@ -30,7 +30,7 @@
 - :white_check_mark: List
 - :white_check_mark: Sort
 - :x: Update
-- :x: Jetpack Joyride Support
+- :x: Minecraft Server With Mods
 
 ## :rocket: Tecnologies
 
